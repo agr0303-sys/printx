@@ -35,6 +35,21 @@ PrintX follows a modular and service-oriented architecture:
 Designed for **scalability, simplicity, and efficient interaction between users and shop owners**
 
 ---
+## 🏗️ System Design & Diagrams  
+
+### 🔹 Use Case Diagram (Marketplace)  
+![Use Case](./images/usecase.png)
+
+### 🔹 Sequence Diagram (Order Flow)  
+![Sequence](./images/sequence.png)
+
+### 🔹 Activity Diagram  
+![Activity](./images/activity.png)
+
+### 🔹 Class Diagram (Order Management)  
+![Class](./images/class.png)
+
+---
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React  
@@ -85,7 +100,12 @@ Designed for **scalability, simplicity, and efficient interaction between users 
 > Code can be shared upon request for academic/research evaluation.
 
 ---
+## ⚙️ Design Decisions  
+- Used Google Drive for document storage to ensure ease of access for shop owners  
+- Chose MongoDB for flexible schema and scalability  
+- Designed modular backend for handling multiple concurrent users  
 
+---
 ## 🚀 Future Scope  
 - 🚚 Online delivery of printed documents  
 - 🔔 Real-time notifications for order updates  
