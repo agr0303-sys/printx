@@ -37,7 +37,7 @@ Designed for **scalability, simplicity, and efficient interaction between users 
 ---
 ## 🏗️ System Design & Diagrams  
 
-### 🔹 Use Case Diagram (Marketplace)  
+### 🔹 Use Case Diagram (PrintX)  
 ![Use Case](./images/usecase.png)
 
 ### 🔹 Sequence Diagram (Order Flow)  
