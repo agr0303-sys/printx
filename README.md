@@ -106,4 +106,5 @@ Designed for **scalability, simplicity, and efficient interaction between users 
 PrintX solves a practical, real-world problem by digitizing the printing process. It demonstrates **system design, real-time workflow management, and scalable backend development** while focusing on usability for non-technical users.
 
 ---
-
+## 📄 Project Report  
+👉https://drive.google.com/file/d/1CLadM1QwuZf6jsetKfy6UWK0-gsG3mcT/view?usp=drive_link
