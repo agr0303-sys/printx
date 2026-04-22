@@ -1,0 +1,5 @@
+// export const ADD_TO_CART="ADD_TO_CART"
+// export const REMOVE_FROM_CART="REMOVE_FROM_CART"
+export const SET_LOADING="SET_LOADING"
+export const SHOP_LIST="SHOP_LIST"
+export const SET_SHOP_LIST="SET_SHOP_LIST"

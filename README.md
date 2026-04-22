@@ -95,9 +95,7 @@ Designed for **scalability, simplicity, and efficient interaction between users 
 ---
 
 ## 🔐 Code Availability  
-> The source code is kept private to maintain system integrity and project ownership.  
-> This repository focuses on system design, architecture, and project understanding.  
-> Code can be shared upon request for academic/research evaluation.
+-This repository is designed as a Technical Blueprint, showcasing the architectural foundations, data models, and service workflows of PrintX.
 
 ---
 ## ⚙️ Design Decisions  
